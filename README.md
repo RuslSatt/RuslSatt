@@ -27,7 +27,17 @@ This project was developed at the rs-school course at stage 0. <br/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/portfolio)
 <br/>
 
-2️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
+2️⃣ [Custom-video](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
+Description ✍️ <br/>
+This project was developed at the rs-school course at stage 0. It's on the portfolio page. <br/>
+❗Click the video button in the menu for move to the video player <br/>
+☑️ Implemented: ***Start and stop, rewind, timer, volume control, turn the sound on or off***. <br/>
+🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/custom-video)
+<br/>
+
+3️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
 Description ✍️ <br/>
 This project was developed at the rs-school course at stage 0. <br/> 
 ☑️ Implemented: ***API, movie search, interactive cards and adaptive*** <br/>
@@ -38,7 +48,7 @@ This project was developed at the rs-school course at stage 0. <br/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/movie-app)
 <br/>
 
-3️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
+4️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
 Description ✍️ <br/>
 This project was developed at the rs-school course at stage 0. <br/> 
 ☑️ Implemented: ***Local Storage, results table and game story.*** <br/>
@@ -49,7 +59,7 @@ This project was developed at the rs-school course at stage 0. <br/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/tic-tac-toe)
 <br/>
 
-4️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
+5️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
 Description ✍️ <br/>
 This is my first project, the first time I wrote it without assemblers, then it was built using webpack, and interactive was also added using JS. <br/>
 Swiper in progress... <br/> 

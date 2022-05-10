@@ -58,7 +58,7 @@
 <br/>
 
 6️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
-☑️ Implemented: ***Adaptive layout, adaptive menu and swiper.*** <br/>
+☑️ Implemented: ***Adaptive layout, adaptive menu and slider.*** <br/>
 🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="20" height="20"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>

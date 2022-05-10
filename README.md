@@ -1,7 +1,11 @@
 ### Hi there 👋
+--------------------
 ### :hammer_and_wrench: Languages and Tools :
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
@@ -13,6 +17,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
+--------------------
+
+### 💠 My CV
+* ***[CV](https://ruslsatt.github.io/CV/)***
+* ***[CV-markdown](https://ruslsatt.github.io/CV/cv)***
+
+--------------------
 ### My projects 🔥
 1️⃣ [Portfolio](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
 ☑️ Implemented: ***Theme change, tab switching, local storage, adaptive, page translation, custom video player***. <br/>
@@ -66,8 +77,12 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/allbirds)
 <br/>
 
+--------------------
+
 ### My stats ⚡
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuslSatt&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+--------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslSatt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--

@@ -2,7 +2,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
@@ -30,31 +29,37 @@
 ☑️ Implemented: ***Start and stop, rewind, timer, volume control, turn the sound on or off***. <br/>
 🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/custom-video)
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/custom-video)
 <br/>
 
-3️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
+3️⃣ [Shelter](https://ruslsatt.github.io/shelter/): ⬇️ <br/>
+☑️ Implemented: ***Adaptive layout, adaptive menu, random carousel, pagination, popup***. <br/>
+🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="20" height="20"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/shelter/tree/main)
+<br/>
+
+4️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
 ☑️ Implemented: ***API, movie search, interactive cards and adaptive*** <br/>
 🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="20" height="20"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/movie-app)
 <br/>
 
-4️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
+5️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
 ☑️ Implemented: ***Local Storage, results table and game story.*** <br/>
 🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="20" height="20"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="20" height="20"/>) => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/tic-tac-toe)
 <br/>
 
-5️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
+6️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
 ☑️ Implemented: ***Adaptive layout, adaptive menu and swiper.*** <br/>
 🛠️ = (<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="20" height="20"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="20" height="20"/>

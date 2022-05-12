@@ -24,34 +24,52 @@
 * ***[CV-markdown](https://ruslsatt.github.io/CV/cv)***
 
 --------------------
+
 ### My projects 🔥
-1️⃣ [Portfolio](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
+1️⃣ [Keyboard](https://ruslsatt.github.io/keyboard/): ⬇️ <br/>
+☑️ Implemented: ***Virtual keyboard***. <br/>
+🛠️ => [Source code](https://github.com/RuslSatt/keyboard)
+<br/>
+
+--------------------
+
+2️⃣ [Portfolio](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
 ☑️ Implemented: ***Theme change, tab switching, local storage, adaptive, page translation, custom video player***. <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/portfolio)
 <br/>
 
-2️⃣ [Custom-video](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
+--------------------
+
+3️⃣ [Custom-video](https://ruslsatt.github.io/rs-school-stage-0/portfolio/): ⬇️ <br/>
 ❗Click the video button in the menu for move to the video player <br/>
 ☑️ Implemented: ***Start and stop, rewind, timer, volume control, turn the sound on or off***. <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/custom-video)
 <br/>
 
-3️⃣ [Shelter](https://ruslsatt.github.io/shelter/): ⬇️ <br/>
+--------------------
+
+4️⃣ [Shelter](https://ruslsatt.github.io/shelter/): ⬇️ <br/>
 ☑️ Implemented: ***Adaptive layout, adaptive menu, random carousel, pagination, popup***. <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/shelter/tree/main)
 <br/>
 
-4️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
+--------------------
+
+5️⃣ [Movie-app](https://ruslsatt.github.io/rs-school-stage-0/movie-app/) ⬇️ <br/>
 ☑️ Implemented: ***API, movie search, interactive cards and adaptive*** <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/movie-app)
 <br/>
 
-5️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
+--------------------
+
+6️⃣ [Tic-tac-toe](https://ruslsatt.github.io/rs-school-stage-0/tic-tac-toe/) ⬇️ <br/>
 ☑️ Implemented: ***Local Storage, results table and game story.*** <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/rs-school-stage-0/tree/tic-tac-toe)
 <br/>
 
-6️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
+--------------------
+
+7️⃣ [Allbirds](https://ruslsatt.github.io/allbirds/) ⬇️ <br/>
 ☑️ Implemented: ***Adaptive layout, adaptive menu and slider.*** <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/allbirds)
 <br/>

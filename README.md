@@ -24,8 +24,15 @@
 * ***[CV-markdown](https://ruslsatt.github.io/CV/cv)***
 
 --------------------
-
 ### My projects 🔥
+
+🔥[Social App](https://github.com/RuslSatt/social-app) in progress...
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react" width="20" height="20"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="20" height="20"/>&nbsp;
+
+--------------------
+
+
 1️⃣ [Keyboard](https://ruslsatt.github.io/keyboard/): ⬇️ <br/>
 ☑️ Implemented: ***Virtual keyboard***. <br/>
 🛠️ => [Source code](https://github.com/RuslSatt/keyboard)
